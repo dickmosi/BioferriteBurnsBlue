@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+<!-- End Glow -->
+<Operation Class="PatchOperationReplace">
+<xpath>Defs/FleckDef[defName="IncineratorBeamEnd_Glow"]/graphicData/color</xpath>
+	<value>
+		<color>(.45, .9, 1, 0.75)</color>
+	</value>
+</Operation>
+<!-- Ember Color -->
+<!-- Was .2, .9, .96 -->
+<Operation Class="PatchOperationReplace">
+<xpath>Defs/FleckDef[defName="Fleck_BurnerUsedEmber"]/graphicData/shaderParameters/_Color2</xpath>
+	<value>
+		<_Color2>(.6, .9, .96, 1)</_Color2>
+	</value>
+</Operation>
+</Patch>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<name>Bioferrite Burns Blue</name>
+<author>dickmosi</author>
+<packageId>mosi.BioferriteBurnsBlue</packageId>
+<description>Changes Pressurized Bioferrite-related things to burn blue, like some older textures implied it would.</description>
+<modDependencies>
+	<li>
+		<packageId>Ludeon.RimWorld.Anomaly</packageId>
+		<displayName>Anomaly</displayName>
+	</li>
+</modDependencies>
+<supportedVersions>
+	<li>1.5</li>
+</supportedVersions>
+<loadAfter>
+	<li>Ludeon.RimWorld</li>
+	<li>Ludeon.RimWorld.Anomaly</li>
+</loadAfter>
+</ModMetaData>
