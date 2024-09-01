@@ -1,0 +1,1 @@
+I don't feel like uploading it to the workshop. Retextures Pressurized Bioferrite-things to burn a blue flame. Like an old cut effect texture suggested it should. If you want to upload it to the Workshop, go ahead you have my permission. I made it, didn't really like it but... well, I may as well save it somewhere.
