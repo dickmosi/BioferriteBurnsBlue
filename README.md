@@ -1,1 +1,3 @@
-I don't feel like uploading it to the workshop. Retextures Pressurized Bioferrite-things to burn a blue flame. Like an old cut effect texture suggested it should. If you want to upload it to the Workshop, go ahead you have my permission. I made it, didn't really like it but... well, I may as well save it somewhere.
+Retextures Pressurized Bioferrite-things to burn a blue flame. If you want to upload it to the Workshop, go ahead you have my permission. I don't feel like uploading it to the workshop.
+
+For reference: https://www.reddit.com/r/RimWorld/comments/1f6gf2g/two_pieces_of_cutcontent_from_anomaly/
