@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+<!-- Removes new effect -->
+<Operation Class="PatchOperationRemove">
+	<xpath>Defs/AbilityDef[defName="IncineratorBurner"]/comps/li[@Class="CompProperties_AbilityBurner"]</xpath>
+</Operation>
+<Operation Class="PatchOperationRemove">
+	<xpath>Defs/AbilityDef[defName="HellcatBurner"]/comps/li[@Class="CompProperties_AbilityBurner"]</xpath>
+</Operation>
+<!-- Re-adds old effect -->
+<Operation Class="PatchOperationAdd">
+	<xpath>Defs/AbilityDef[defName="IncineratorBurner"]/comps/li[@Class="CompProperties_AbilityFireSpew"]</xpath>
+	<value>
+		<effecterDef>Fire_SpewBioferrite</effecterDef>
+	</value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+	<xpath>Defs/AbilityDef[defName="HellcatBurner"]/comps/li[@Class="CompProperties_AbilityFireSpew"]</xpath>
+	<value>
+		<effecterDef>Fire_SpewBioferrite</effecterDef>
+	</value>
+</Operation>
+</Patch>
